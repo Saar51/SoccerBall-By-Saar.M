@@ -1,5 +1,5 @@
 # SoccerBall-By-Saar.M
-NICE GAME FOR 2 PEOPLE
+NICE GAME FOR 2 PLAYERS
 
 Rules:
 The main goal of this game is to get your player into the opponent goalpost.
